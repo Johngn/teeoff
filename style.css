@@ -54,6 +54,10 @@ li {
   border-radius: 10px;
   /* box-shadow: 0 0 3px 0 rgb(89, 89, 89); */
 }
+.left-heading {
+  padding: 10px;
+  font-size: 25px;
+}
 p {
   text-align: justify;
   padding: 10px;
@@ -85,12 +89,12 @@ p {
 .links-heading {
   text-align: center;
 }
-.links-container a {
+/* .links-container {
   display: block;
   font-size: 20px;
   text-align: center;
   margin: 20px 0;
-}
+} */
 
 .sponsor-container a {
   margin: 20px;
@@ -108,7 +112,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-bottom: 300px;
+  margin-bottom: 100px;
   /* height: 1000px; */
 }
 .sponsor-heading {
