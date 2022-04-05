@@ -138,3 +138,10 @@ p {
     margin: 20px auto;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .right {
+    width: 98%;
+    margin: 20px auto;
+  }
+}
